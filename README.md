@@ -1,4 +1,4 @@
-![Header](![github-header-image](https://github.com/PaulFranciz/PaulFranciz/assets/112461104/c0c44a12-7c6f-4486-9c1c-315c8c44ab02)
+![Header](https://github.com/PaulFranciz/PaulFranciz/assets/112461104/c0c44a12-7c6f-4486-9c1c-315c8c44ab02)
 )
 <h1 align="center">Hi 👋, I'm Paul Francis</h1>
 <h3 align="center">I'm a Selectively Skilled Frontend Developer.</h3>
