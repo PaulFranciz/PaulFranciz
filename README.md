@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://pauledet.netlify.app](https://pauledet.netlify.app)
+- 👨‍💻 All of my projects are available at [https://pauledet.netlify.app](https://paulo.me)
 
 - 💬 Ask me about **React.js MERN**
 
