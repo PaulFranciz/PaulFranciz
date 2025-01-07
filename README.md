@@ -1,7 +1,7 @@
 ![Header](https://github.com/PaulFranciz/PaulFranciz/assets/112461104/c0c44a12-7c6f-4486-9c1c-315c8c44ab02)
 )
 <h1 align="center">Hi 👋, I'm Paul Francis</h1>
-<h3 align="center">I'm a Selectively Skilled Frontend Developer.</h3>
+<h3 align="center">I'm a Senior Frontend Developer.</h3>
 <img src='https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif'width="400" border-radius="10px" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulfranciz&label=Profile%20views&color=0e75b6&style=flat" alt="paulfranciz" /> </p>
@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/paulfranciz" target="blank"><img src="https://img.shields.io/twitter/follow/paulfranciz?logo=twitter&style=for-the-badge" alt="paulfranciz" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce website**
+- 🔭 I’m currently working on **a web 3.0 application**
 
-- 🌱 I’m currently learning **React.js, Next.js**
-
-- 👨‍💻 All of my projects are available at [https://pauledet.netlify.app](https://paulo.me)
+- 👨‍💻 All of my projects are available at [https://paulo.me]
 
 - 💬 Ask me about **React.js MERN**
 
