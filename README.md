@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working on **a web 3.0 application**
 
-- 👨‍💻 All of my projects are available at [https://paulo.me]
-
-- 💬 Ask me about **React.js MERN**
+- 👨‍💻 All of my projects are available at [https://paulfrancis.vercel.app]
 
 - 📫 How to reach me **pauledet339@gmail.com**
 
@@ -31,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulfranciz&show_icons=true&locale=en&layout=compact" alt="paulfranciz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulfranciz&" alt="paulfranciz" /></p> 
