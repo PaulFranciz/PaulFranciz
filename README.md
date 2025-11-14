@@ -1,31 +1,39 @@
-![Header](https://github.com/PaulFranciz/PaulFranciz/assets/112461104/c0c44a12-7c6f-4486-9c1c-315c8c44ab02)
-)
-<h1 align="center">Hi 👋, I'm Paul Francis</h1>
-<h3 align="center">I'm a Senior Frontend Developer.</h3>
-<img src='https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif'width="400" border-radius="10px" alt="Coding" />
+# Paul Francis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulfranciz&label=Profile%20views&color=0e75b6&style=flat" alt="paulfranciz" /> </p>
+**Senior Software Engineer** | Full-Stack Development & Cloud Architecture
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulfranciz" alt="paulfranciz" /></a> </p>
+Currently building scalable telehealth and social platforms serving 10,000+ users.
 
-<p align="left"> <a href="https://twitter.com/paulfranciz" target="blank"><img src="https://img.shields.io/twitter/follow/paulfranciz?logo=twitter&style=for-the-badge" alt="paulfranciz" /></a> </p>
+## 📫 Contact
 
-- 🔭 I’m currently working on **a web 3.0 application**
+**Email:** pauledet339@gmail.com  
+**Portfolio:** [paulfrancis.vercel.app](https://paulfrancis.vercel.app)  
+**LinkedIn:** [Paul Francis](https://linkedin.com/in/paul-francis)  
+**Twitter:** [@paulfranciz](https://twitter.com/paulfranciz)
 
-- 👨‍💻 All of my projects are available at [https://paulfrancis.vercel.app]
+## 💼 Experience
 
-- 📫 How to reach me **pauledet339@gmail.com**
+**Software Engineer** @ RehabifyHealth (Aug 2023 - Present)  
+Led development of telehealth platform with real-time video consultations, serving 5,000+ practitioners. Reduced storage costs by 40% and improved query performance by 65%.
 
-- ⚡ Fun fact **I enjoy watching football and cooking.**
+**Software Development Engineer** @ Nextbud/Jami (Apr 2023 - Apr 2025)  
+Built social networking platform serving 8,000+ users across multiple countries. Architected admin dashboard processing 50,000+ monthly interactions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/paulfranciz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulfranciz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paul francis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul francis" height="30" width="40" /></a>
-</p>
+**Software Engineer** @ LaundryGuy (Sep 2024 - Mar 2025)  
+Engineered logistics platform processing 12,000+ orders with 99.6% uptime. Built real-time tracking system and payment integration handling $80K+ monthly transactions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulfranciz&show_icons=true&locale=en&layout=compact" alt="paulfranciz" /></p>
+**Core:** TypeScript, JavaScript, React, Next.js, Node.js, Express  
+**Database:** PostgreSQL, MySQL, Redis, ConvexDB  
+**Cloud & DevOps:** AWS (Lambda, S3), Azure, CI/CD, Docker  
+**Tools:** Git, Figma, Jest, Nightwatch, Postman
+
+## 🚀 Current Projects
+
+**Groovah** - SaaS social media scheduler with AI-powered optimization (Next.js, NestJS, PostgreSQL, Redis, OpenAI API). Launch: Q1 2026.
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=paulfranciz&show_icons=true&locale=en&layout=compact)](https://github.com/paulfranciz)
 
