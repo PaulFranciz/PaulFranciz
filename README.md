@@ -8,7 +8,7 @@ Currently building scalable telehealth and social platforms serving 10,000+ user
 
 **Email:** pauledet339@gmail.com  
 **Portfolio:** [paulfrancis.vercel.app](https://paulfrancis.vercel.app)  
-**LinkedIn:** [Paul Francis](https://linkedin.com/in/paul-francis)  
+**LinkedIn:** [Paul Francis](https://linkedin.com/in/paul-francis-123281260)  
 **Twitter:** [@paulfranciz](https://twitter.com/paulfranciz)
 
 ## 💼 Experience
@@ -32,8 +32,3 @@ Engineered logistics platform processing 12,000+ orders with 99.6% uptime. Built
 ## 🚀 Current Projects
 
 **Groovah** - SaaS social media scheduler with AI-powered optimization (Next.js, NestJS, PostgreSQL, Redis, OpenAI API). Launch: Q1 2026.
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=paulfranciz&show_icons=true&locale=en&layout=compact)](https://github.com/paulfranciz)
-
