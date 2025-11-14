@@ -6,7 +6,7 @@ Currently building scalable telehealth and social platforms serving 10,000+ user
 
 ## 📫 Contact
 
-**Email:** pauledet339@gmail.com  
+**Email:** paulfranciz001@gmail.com  
 **Portfolio:** [paulfrancis.vercel.app](https://paulfrancis.vercel.app)  
 **LinkedIn:** [Paul Francis](https://linkedin.com/in/paul-francis-123281260)  
 **Twitter:** [@paulfranciz](https://twitter.com/paulfranciz)
